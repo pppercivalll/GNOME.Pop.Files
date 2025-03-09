@@ -1,0 +1,23 @@
+[color]
+foreground = blue       # Fallback color (ignored if gradient is enabled)
+gradient = 1            # Enable gradient
+gradient_count = 8      # More colors for a hyper-smooth transition
+
+gradient_color_1 = '#0a1f44'  # Deep Space Blue    
+gradient_color_2 = '#1565c0'  # Dark Royal Blue  
+gradient_color_3 = '#1e88e5'  # Vibrant Blue  
+gradient_color_4 = '#42a5f5'  # Sky Glow Blue  
+gradient_color_5 = '#64b5f6'  # Soft Azure  
+gradient_color_6 = '#90caf9'  # Neon Ice Blue  
+gradient_color_7 = '#00e5ff'  # Bright Cyan Glow  
+gradient_color_8 = '#6200ea'  # Electric Purple Tint (subtle glow)  
+
+
+[general]
+framerate = 144         # Max smoothness  
+sensitivity = 75        # More natural movement  
+bars = 120              # More bars for ultra-fine details  
+bar_width = 1           # Slim elegant bars  
+bar_spacing = 0         # No gaps for a fluid look  
+lower_cutoff_freq = 30  # Ignores low, unneeded bass noise  
+higher_cutoff_freq = 12000  # Limits highs for clarity  
