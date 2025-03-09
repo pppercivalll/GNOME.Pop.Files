@@ -1,2 +1,2 @@
 # MyPopDotfiles
-This repository contains my own ricing experience while using PopOS.
+This repository contains my own dotfiles while using PopOS.
