@@ -5,7 +5,9 @@ This repository contains my personal dotfiles while using **Pop!_OS**.
 ## 🎯 My Amunitions
 
 - **🖥️ Distro:** [Pop!_OS 22.04](https://pop.system76.com/)  
-- **🖼️ Desktop Environment:** [GNOME 42](https://www.gnome.org/)  
+- **🖼️ Desktop Environment:** [GNOME 42](https://www.gnome.org/)
+- **🖥️ Display Manager:** [GDM]
+- **🖥️ Display Server:** [Wayland](https://wayland.freedesktop.org/)
 - **🪟 Window Manager:** [Pop Shell](https://github.com/pop-os/shell)  
 - **💻 Terminal:** [Kitty](https://sw.kovidgoyal.net/kitty/)  
 - **🔡 Font:** [JetBrains Mono](https://www.jetbrains.com/lp/mono/)  
