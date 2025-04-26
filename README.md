@@ -18,7 +18,7 @@ This repository contains my personal dotfiles while using **Pop!_OS**.
 - **📊 Fetch Utility:** [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - **📊 Audio Visualiser:** [Cava](https://github.com/karlstav/cava)
 
-## 📂 Dotfiles Included (placed in the top of the repository section)
+## 📂 Dotfiles Included (placed on the top of the repository section)
 
 - **[Kitty]**
 - **[Starship]**
