@@ -1,4 +1,4 @@
-# MyPopDotfiles
+# My Pop.Files
 
 This repository contains my personal dotfiles while using **Pop!_OS**.
 
