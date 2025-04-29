@@ -1,4 +1,4 @@
-# My Pop.Files
+# My Pop.Files [GNOME]
 
 This repository contains my personal dotfiles while using **Pop!_OS**.
 
