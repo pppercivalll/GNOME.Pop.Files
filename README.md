@@ -2,6 +2,7 @@
 
 This repository contains my personal dotfiles while using **Pop!_OS**.
 
+---
 ## 🎯 My Amunitions
 
 | Component            | Description |
@@ -21,4 +22,10 @@ This repository contains my personal dotfiles while using **Pop!_OS**.
 | **Bar**              | [TokyoNight Bar](https://github.com/gh0stzk/dotfiles/tree/main/themes/TokyoNight) |
 
 ## 📂 Dotfiles Included (placed on the top of the repository section)
+
+---
+## License
+
+This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+
 ---
