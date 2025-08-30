@@ -3,7 +3,7 @@
 This repository contains my personal dotfiles while using **Pop!_OS**.
 
 ---
-## 🎯 My Amunitions
+## My Amunitions
 
 | Component            | Description |
 |----------------------|-------------|
@@ -21,7 +21,7 @@ This repository contains my personal dotfiles while using **Pop!_OS**.
 | **GTK Theme**        | [TokyoNight](https://github.com/gh0stzk/dotfiles/tree/main/themes/TokyoNight) |
 | **Bar**              | [TokyoNight Bar](https://github.com/gh0stzk/dotfiles/tree/main/themes/TokyoNight) |
 
-## 📂 Dotfiles Included (placed on the top of the repository section)
+## Dotfiles Included (placed on the top of the repository section)
 
 ---
 ## License
